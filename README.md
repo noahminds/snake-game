@@ -1,5 +1,5 @@
 # Introduction
-A variation of the classic snake game coded in Racket.
+A variation of the classic snake game coded in DrRacket.
 
 Use the arrow keys to navigate the snake. Hit the yellow dots to grow. Collisions with purple dots, the walls, or with the tail of the snake result in Game Over. Game score is displayed in the top right-hand corner.
 
